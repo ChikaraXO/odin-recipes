@@ -1,0 +1,12 @@
+* {
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 36px;
+    color: black;
+}
+li {
+    font-weight: 700;
+    font-size: 18px;
+}
